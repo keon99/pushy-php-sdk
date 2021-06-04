@@ -1,5 +1,5 @@
 {
-    "name": "jlorente/pushy-php-sdk",
+    "name": "keon99/pushy-php-sdk",
     "description": "A PHP package to access the Pushy API by a comprehensive way.",
     "keywords": [
         "php",
